@@ -13,6 +13,8 @@ package Task::Deprecations::512;
 
 =pkg Switch
 
+=pkg Perl4::CoreLibs
+
 =cut
 
 1;
