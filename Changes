@@ -1,6 +1,7 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
+          add versions so that non-perl-core versions are required
 
 1.000     2010-03-31 16:36:44 America/New_York
           first release
